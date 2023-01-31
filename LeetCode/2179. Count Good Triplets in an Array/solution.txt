@@ -1,0 +1,4 @@
+index: num1 number to index
+nums2: the ith number in num2 is at the nums2[i] th position
+T1[i]: how many number before index i in num1 showed up in num2 so far
+T2[i] how many pairs before index i+1 in num1 is good in num2 so far

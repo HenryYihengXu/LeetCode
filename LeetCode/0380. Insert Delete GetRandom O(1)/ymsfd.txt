@@ -1,0 +1,8 @@
+https://www.1point3acres.com/bbs/thread-924780-1-1.html
+
+两题，一道是LC🈚️遛，另一道没让写代码，就说的思路。是之前面经提到过：basket里面取球（编号0-99），给你一个array里面是要取的球的编号。问你每次随机从basket抽取一个球，without replacement, 抽多少次能把array里的球都取完。
+一开始只给‍‌了暴力解，后来意识到就是LC伞霸凌
+
+https://www.1point3acres.com/bbs/thread-931581-1-1.html
+
+请问LZ getRandom是lc那个原题吗，还是摸球（更简单的版本，直接用set+list, 拿出来的球放到结尾再pop掉）
